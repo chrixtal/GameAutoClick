@@ -11,3 +11,8 @@ running in python 3.10.
 how to use:
 1. make sure the screen size is 1920x1080, if not, you need adjust regionX, regionY parameter.
 2. terminate program to control your mouse press "Ctrl" in default.
+
+
+clickRandom.py
+for game:
+http://game.hg0355.com/games/Candy-Game/
